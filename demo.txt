@@ -9,4 +9,5 @@ X
 ^O
 EXITxXX
 >>>>>>> june
-this is another test for merge june then editing 
+this is another test for merge june then editing
+Testing III for commit without add
