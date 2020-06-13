@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 add a new line for testing
 new added line test on pycharm
 aaaa this is a new testing
+=======
+add a new line for X
+x
+X
+^O
+EXITxXX
+>>>>>>> june
